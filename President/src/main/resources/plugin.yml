@@ -1,0 +1,13 @@
+main: Me.Sebbe.President.Main
+name: President
+version: 1.0
+description: This plugin does so much stuff it can't be contained!
+author: Sebbe
+api-version: 1.19
+commands: 
+  president:
+    description: Starts vote
+    usage: /<command>
+  election:
+    description: Check who is in election
+    usage: /<command>
